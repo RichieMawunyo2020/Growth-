@@ -1,0 +1,45 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.showcase {
+    width: 150px;
+}
+
+.card{
+    /* border: 1px dotted blue; */
+    padding: 20px;
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+    width: 400px;
+    /* margin-right: auto;
+    margin-left: auto; */
+    margin: 0 auto 0 auto;
+    text-align: center;
+    color: #2b2839;
+    background: #ddebf8;
+    border-left: #d8cefe 6px solid;
+    border-right: #d8cefe 6px solid;
+    border-radius: 20px;
+}
+
+.border-blue{
+    border: 1px dotted blue;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
